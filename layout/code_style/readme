@@ -1,0 +1,8 @@
+Thanks for [Rouge](https://github.com/jneen/rouge)
+You can change the code style by modifying the `@import` line in `default.css.scss`
+Or you can create your own new code style, make sure the name `_newstyle.scss`, and `@import` it.
+
+Pay Attention!
+Most of the styles are not compatible with our default blog theme,
+For example, there're some code styles for dark background,
+so, you need change the `code-multline` style in `default.scss`
